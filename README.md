@@ -1,16 +1,45 @@
 ### Hi there 👋
 
-<!--
-**jonioliveira/jonioliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jóni Oliveira and I'm a Software/DevOps engineer. Loving to learn about tech and try to be a problem solver. I'm from Portugal, living in Leiria and currently working at [xgeeks][4] by [KI Group][5]. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
-Here are some ideas to get you started:
+## ✍️ Posts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find my articles on [Medium][6], but there is some:
+
+- [Sentry and Kubernetes. Take-aways from deploying Sentry in a k8s cluster][7]
+
+## Stats
+<!-- ![Top Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jonioliveira&show_icons=true) --> 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jonioliveira&show_icons=true)  
+
+<!-- links to social media icons -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+
+<!-- links to your social media accounts -->
+
+[1]: https://twitter.com/joniroliveira
+[2]: https://github.com/jonioliveira
+[3]: https://www.linkedin.com/in/jonioliveira/
+[4]: https://xgeeks.io
+[5]: https://kigroup.de
+[6]: https://medium.com/@jonioliveira
+[7]: https://medium.com/xgeeks/sentry-and-kubernetes-eabc507c96b7
+
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
