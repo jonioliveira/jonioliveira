@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-My name is Jóni Oliveira and I'm a Software/DevOps engineer. Loving to learn about tech and try to be a problem solver. I'm from Portugal, living in Leiria and currently working at [xgeeks][4] by [KI Group][5]. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Jóni Oliveira and I'm a Software/DevOps engineer. Loving to learn about tech and try to be a problem solver. I'm from Portugal, living in Leiria and currently working at [Bold by Devoteam][4]. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## ✍️ Posts
 
-You can find my articles on [Medium][6], but there is some:
+You can find my articles on [Medium][5], but there is some:
 
-- [Sentry and Kubernetes. Take-aways from deploying Sentry in a k8s cluster][7]
+- [Sentry and Kubernetes. Take-aways from deploying Sentry in a k8s cluster][6]
 
 ## Stats
 <!-- ![Top Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jonioliveira&show_icons=true) --> 
@@ -31,10 +31,9 @@ You can find my articles on [Medium][6], but there is some:
 [1]: https://twitter.com/joniroliveira
 [2]: https://github.com/jonioliveira
 [3]: https://www.linkedin.com/in/jonioliveira/
-[4]: https://xgeeks.io
-[5]: https://kigroup.de
-[6]: https://medium.com/@jonioliveira
-[7]: https://medium.com/xgeeks/sentry-and-kubernetes-eabc507c96b7
+[4]: https://boldint.com/en
+[5]: https://medium.com/@jonioliveira
+[6]: https://medium.com/xgeeks/sentry-and-kubernetes-eabc507c96b7
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
