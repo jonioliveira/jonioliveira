@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jóni Oliveira and I'm a Software/DevOps engineer. Loving to learn about tech and try to be a problem solver. I'm from Portugal, living in Leiria and currently working at [Bold by Devoteam][4]. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Jóni Oliveira and I'm a Software/DevOps engineer. Loving to learn about tech and try to be a problem solver. I'm from Portugal, living in Leiria and currently working at [Bold by Devoteam][4]. You can find me on [Twitter][1],  or on [LinkedIn][3].
 
 ## ✍️ Posts
 
