@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jóni Oliveira and I'm a Software/DevOps engineer. Loving to learn about tech and try to be a problem solver. I'm from Portugal, living in Leiria and currently working at [Apple][4]. You can find me on [Twitter][1],  or on [LinkedIn][3].
+My name is Jóni Oliveira and I'm a Software/DevOps engineer. Loving to learn about tech and try to be a problem solver. I'm from Portugal, living in Leiria and currently working at [Web Summit][4]. You can find me on [Twitter][1],  or on [LinkedIn][3].
 
 ## ✍️ Posts
 
@@ -31,7 +31,7 @@ You can find my articles on [Medium][5], but there is some:
 [1]: https://twitter.com/joniroliveira
 [2]: https://github.com/jonioliveira
 [3]: https://www.linkedin.com/in/jonioliveira/
-[4]: https://apple.com/
+[4]: https://websummit.com/
 [5]: https://medium.com/@jonioliveira
 [6]: https://medium.com/xgeeks/sentry-and-kubernetes-eabc507c96b7
 
